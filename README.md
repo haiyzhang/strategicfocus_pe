@@ -1,8 +1,6 @@
 # strategicfocus_pe
 Job market paper, 2026-27. 
 
-# Strategic Focus: Evidence from Private Equity Transactions in US Power Generation
-
 This repository provides a public overview of my research project on strategic focus and 
 private equity ownership in the U.S. power generation sector.
 
