@@ -1,9 +1,6 @@
 # strategicfocus_pe
 Job market paper, 2026-27. 
 
-This repository provides a public overview of my research project on strategic focus and 
-private equity ownership in the U.S. power generation sector.
-
 
 ---
 
