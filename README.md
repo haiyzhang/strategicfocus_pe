@@ -15,7 +15,7 @@ Compute and electricity are complements, not substitutes: a chip without power i
 
 ## What this paper finds
 
-Private equity owners of U.S. power-generating assets deliver **5–8% improvements in unit-level energy efficiency** within six years of acquisition. The gains translate to roughly **$270–$620 million per year in avoided fuel costs** and **5.8 million tons of CO₂ avoided annually** (≈1.3 million cars off the road).
+Private equity owners of U.S. power-generating assets deliver **roughly 3–5% improvements in unit-level energy efficiency** in the six years following acquisition (point estimates settle near 4% across most of the post-period; longer horizons approach 5%). The gains translate to roughly **$270–$620 million per year in avoided fuel costs** and **5.8 million tons of CO₂ avoided annually** (≈1.3 million cars off the road).
 
 This identifies **technological similarity, not geographic proximity**, as the operative channel of strategic focus — separating the mechanism cleanly from classical agglomeration economics (Marshall, Glaeser, Saxenian) and pointing to private equity's distinctive capability to deliver productivity gains across long geographic distance.
 
